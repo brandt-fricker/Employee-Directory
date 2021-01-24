@@ -2,7 +2,7 @@
 
 ## Description
 
-Employee Directory is an application that gives a user the ability to view a directory of employees with their contact information.
+Employee Directory is an application that gives a user the ability to view a table rendered with their employees and their information.
 
 ## Table of Contents
 
@@ -37,6 +37,6 @@ Have you ever needed to find contact information for your coworker/employee? By 
 
 ## GitHub Repo,Profile, Questions
 
-* [Repository](https://github.com/brandt-fricker/emp-dir)
+* [Repository](https://github.com/brandt-fricker/super-duper-chainsaw)
 * [GitHub Profile](https://github.com/brandt-fricker)
 * Any questions, comments, or concerns please feel free to contact me, all my info can be found [here](https://drive.google.com/file/d/1lZC64xhP2PnV-DXlreSIA11vyq-aKmZ2/view?usp=sharing)
