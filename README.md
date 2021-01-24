@@ -9,6 +9,7 @@ Employee Directory is an application that gives a user the ability to view a tab
   - [Description](#description)
   - [Introduction](#introduction)
   - [Demo](#demo)
+  - [Technologies](#technologies)
   - [Contributing](#contributing)
   - [License](#license)
   - [GitHub Repo,Profile, Quesitons](#github-repoprofile-questions)
@@ -18,10 +19,19 @@ Employee Directory is an application that gives a user the ability to view a tab
 Have you ever needed to find contact information for your coworker/employee? By the way their name is John Smith.... but is it John Smith, John Smith, John A. Smith, John Smith Jr? Don't worry the Employee Directory application is here to help sort this out. The Employee Directory contains vital information to help get you the contact information you need to get  a hold of Mr. Smith quick.  With the Employee Directory you will get a table rendered with employees profile picture, their name, user name, location, phone number, and email; you also have the ability to search by name and sort name. This will definitely make your life easier and hopefully save you from sending a message to someone that doesn't need to know that your IBS is flaring up real bad, not to go into the bathroom down the hall because you just destroyed it, and you're needing to go home for the day and get new underwear. Save yourself the embarrassment and use the Employee Directory.
 
 
+
+
 ### Demo
 
 ![Demo](images/empD.gif)
+[View Employee Directory](https://damp-fjord-75220.herokuapp.com/)Live on Heroku
 
+## Technologies
+  - React
+  - Bootstrap
+  - Material-UI
+  - Random User API
+  - Heroku
 
 ## Contributing
 1. Fork it!
